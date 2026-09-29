@@ -1,0 +1,555 @@
+{
+  "assets": [
+    {
+      "file": "aa-official-logo.jpg",
+      "dimensions": [
+        400,
+        400
+      ],
+      "description": "Official team AA angular star monogram in gold on black. Good geometry reference; no SVG found.",
+      "source": "https://x.com/TeamAAOfficial",
+      "url": "https://pbs.twimg.com/profile_images/1696108800716238849/97oKYLsG_400x400.jpg",
+      "local_path": "/workspace/scratch/43496ce40b55/research-assets/aa-official-logo.jpg",
+      "reuse": "No open license or public reuse permission found; copyright remains with original owners."
+    },
+    {
+      "file": "allu-qbik-1.jpg",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "description": "Real Allu Arjun in black bandhgala; front three-quarter portrait.",
+      "source": "https://qbik.in/products/allu-arjun-in-black-drape-bandhgala",
+      "url": "https://qbik.in/cdn/shop/files/Untitled-2.jpg?v=1768883107&width=1200",
+      "local_path": "/workspace/scratch/43496ce40b55/research-assets/allu-qbik-1.jpg",
+      "reuse": "No open license or public reuse permission found; copyright remains with original owners."
+    },
+    {
+      "file": "allu-qbik-2.jpg",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "description": "Real Allu Arjun in black bandhgala; profile with dark left space.",
+      "source": "https://qbik.in/products/allu-arjun-in-black-drape-bandhgala",
+      "url": "https://qbik.in/cdn/shop/files/Untitled-1.jpg?v=1768883107&width=1200",
+      "local_path": "/workspace/scratch/43496ce40b55/research-assets/allu-qbik-2.jpg",
+      "reuse": "No open license or public reuse permission found; copyright remains with original owners."
+    },
+    {
+      "file": "raaka-firstlook.jpg",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "description": "Official Raaka first look poster April 8 2026; Sun Pictures logo and title preserved.",
+      "source": "https://www.hindustantimes.com/entertainment/telugu-cinema/raaka-allu-arjun-goes-bald-sports-animal-claws-in-jaw-dropping-first-look-at-atlee-aa22-x-a6-deepika-padukone-101775625777974.html",
+      "url": "https://www.hindustantimes.com/ht-img/img/2026/04/08/1200x1600/Allu_Arjun_Raaka_1775626608105_1775626630687_1775627014982.jpg",
+      "local_path": "/workspace/scratch/43496ce40b55/research-assets/raaka-firstlook.jpg",
+      "reuse": "No open license or public reuse permission found; copyright remains with original owners."
+    },
+    {
+      "file": "pushpa-poster-red.jpg",
+      "dimensions": [
+        1600,
+        736
+      ],
+      "description": "Red panoramic official Pushpa 2 key art syndicated by airline licensing film for onboard entertainment.",
+      "source": "https://www.airindia.com/in/en/newsroom/articles/What-to-watch-on-onboard-while-travelling-with-Air-India-this-February.html",
+      "url": "https://dmlib.airindia.com/adobe/assets/urn%3Aaaid%3Aaem%3A9cd5e1e5-3527-4f9c-9b13-b5eca8410f24/as/Air-India-IFE-Offerings-2.jpg",
+      "local_path": "/workspace/scratch/43496ce40b55/research-assets/pushpa-poster-red.jpg",
+      "reuse": "No open license or public reuse permission found; copyright remains with original owners."
+    },
+    {
+      "file": "pushpa-festival.jpg",
+      "dimensions": [
+        1185,
+        505
+      ],
+      "description": "Panoramic nighttime Pushpa 2 Jatara still.",
+      "source": "https://www.newindianexpress.com/entertainment/telugu/2024/Nov/10/pushpa-2-the-rule-to-launch-grand-seven-city-promotional-tour",
+      "url": "https://media.newindianexpress.com/newindianexpress%2F2024-11-10%2Fmwakjme1%2Fpushpa-2.jpg",
+      "local_path": "/workspace/scratch/43496ce40b55/research-assets/pushpa-festival.jpg",
+      "reuse": "No open license or public reuse permission found; copyright remains with original owners."
+    },
+    {
+      "file": "pushpa-street.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "description": "Pushpa 2 film still: Allu Arjun in yellow patterned shirt.",
+      "source": "https://www.pinkvilla.com/entertainment/box-office/pushpa-2-india-box-office-collections-day-2-allu-arjun-and-rashmika-mandanna-film-flirts-with-another-century-grosses-around-rs-100-crore-1361635",
+      "url": "https://www.pinkvilla.com/images/2024-12/1623645297_pushpa-2-7.jpg",
+      "local_path": "/workspace/scratch/43496ce40b55/research-assets/pushpa-street.jpg",
+      "reuse": "No open license or public reuse permission found; copyright remains with original owners."
+    },
+    {
+      "file": "pushpa-cinemaexpress.jpg",
+      "dimensions": [
+        1200,
+        694
+      ],
+      "description": "Pushpa 2 still from editorial gallery.",
+      "source": "https://www.cinemaexpress.com/telugu/photos/2024/Dec/02/pushpa-2-the-rule-here-are-some-stills-from-the-much-awaited-allu-arjun-starrer",
+      "url": "https://cf-images.assettype.com/cinemaexpress%2F2024-12-02%2F1qqj3bro%2Fpushpa.jpg",
+      "local_path": "/workspace/scratch/43496ce40b55/research-assets/pushpa-cinemaexpress.jpg",
+      "reuse": "No open license or public reuse permission found; copyright remains with original owners."
+    },
+    {
+      "file": "dj-alternate.jpg",
+      "dimensions": [
+        900,
+        424
+      ],
+      "description": "DJ: Duvvada Jagannadham promotional poster featuring Allu Arjun and the original DJ title.",
+      "source": "https://www.ibtimes.co.in/photos/allu-arjuns-duvvada-jagannadham-dj-release-date-poster-11314-slide-68722",
+      "url": "https://data1.ibtimes.co.in/photo/en/full/67563/new-posters-stylish-star-allu-arjun-duvvada-jagannadham.jpg?w=900",
+      "reuse": "Promotional artwork; copyright remains with the original owners."
+    },
+    {
+      "file": "sarrainodu-poster.jpg",
+      "dimensions": [
+        960,
+        480
+      ],
+      "description": "Sarrainodu promotional poster featuring Allu Arjun beside a jeep.",
+      "source": "https://www.ibtimes.co.in/us-box-office-collection-sarainodu-sarrainodu-may-not-beat-allu-arjuns-sos-record-premiere-675832",
+      "url": "https://data1.ibtimes.co.in/en/full/605204/sarainodu.jpg",
+      "reuse": "Promotional artwork; copyright remains with the original owners."
+    },
+    {
+      "file": "ala-vaikunthapurramuloo-poster.jpg",
+      "dimensions": [
+        1200,
+        1778
+      ],
+      "description": "Ala Vaikunthapurramuloo poster with Allu Arjun and Pooja Hegde.",
+      "source": "https://www.moviebuff.com/ala-vaikunthapuramulo",
+      "url": "https://images.moviebuff.com/16a93280-7521-4c94-a75d-45d8f895ba39?w=1200",
+      "reuse": "Promotional artwork; copyright remains with the original owners."
+    },
+    {
+      "file": "race-gurram-poster.jpg",
+      "dimensions": [
+        600,
+        800
+      ],
+      "description": "Race Gurram promotional poster with Allu Arjun and Shruti Haasan.",
+      "source": "https://www.district.in/movies/race-gurram-2014-movie-tickets-MV217667",
+      "url": "https://cdn.district.in/movies-assets/images/cinema/Race-Gurram-c4397ff0-2c04-11f1-b735-a5127f108f53.jpg",
+      "reuse": "Promotional artwork; copyright remains with the original owners."
+    }
+  ],
+  "films": {
+    "featured_upcoming": "RAAKA",
+    "original_working_title": "AA22xA6",
+    "director": "Atlee",
+    "producer": "Sun Pictures / Kalanithi Maran",
+    "verified_official_pages": [
+      "https://www.sunpictures.in/movies/raaka/",
+      "https://www.sunpictures.in/announcements/aa22xa6-is-now-raaka/"
+    ],
+    "gear_up_announcement": "https://www.youtube.com/watch?v=SI_PhNII7Mc",
+    "also_announced": {
+      "title": "AA23",
+      "director": "Lokesh Kanagaraj",
+      "music": "Anirudh Ravichander",
+      "studio": "Mythri Movie Makers",
+      "announcement": "https://www.youtube.com/watch?v=6hqduA_fUqE"
+    },
+    "pushpa_2_official_telugu_trailer": "https://www.youtube.com/watch?v=g3JUbgOHgdw",
+    "pushpa_2_official_hindi_trailer": "https://www.youtube.com/watch?v=1kVK0MZlbI4"
+  },
+  "video_loops": {
+    "source": "https://www.rottentomatoes.com/m/pushpa_the_rule_part_2/videos/t2bDbAiT5xUR",
+    "title": "Pushpa: The Rule - Part 2: Trailer 1",
+    "provider": "AA Creations / Mythri Movie Makers promotional trailer, distributed through Fandango MPX",
+    "source_resolution": "1280 × 720",
+    "delivery": "Silent local H.264 MP4, original letterbox removed, browser-native autoplay and loop.",
+    "clips": [
+      {
+        "file": "public/videos/pushpa-regal.mp4",
+        "start_seconds": 33,
+        "duration_seconds": 14
+      },
+      {
+        "file": "public/videos/pushpa-raj.mp4",
+        "start_seconds": 23,
+        "duration_seconds": 10
+      },
+      {
+        "file": "public/videos/pushpa-rule.mp4",
+        "start_seconds": 51,
+        "duration_seconds": 8.5
+      }
+    ]
+  },
+  "film_lineup": [
+    {
+      "title": "RAAKA",
+      "video": "https://www.youtube.com/watch?v=SI_PhNII7Mc"
+    },
+    {
+      "title": "Pushpa 2: The Rule",
+      "video": "https://www.youtube.com/watch?v=g3JUbgOHgdw"
+    },
+    {
+      "title": "DJ: Duvvada Jagannadham",
+      "video": "https://www.youtube.com/watch?v=fy-kooz9se4"
+    },
+    {
+      "title": "Sarrainodu",
+      "video": "https://www.youtube.com/watch?v=SquY-O70Feo"
+    },
+    {
+      "title": "Ala Vaikunthapurramuloo",
+      "video": "https://www.youtube.com/watch?v=ct_j7wgzwyM"
+    },
+    {
+      "title": "Race Gurram",
+      "video": "https://www.youtube.com/watch?v=MdrXJHZSm8Y"
+    }
+  ],
+  "autoplay_classics": {
+    "note": "Genuine film scene clips sourced from publicly downloadable Tenor community MP4s. Preferred official promotional sources were inaccessible (RT 404, Dailymotion HLS and IMDb 403). Original source resolution 480–640 pixels wide and some low frame rates; output stays 640x360 rather than falsely claim native HD. All visible source logos retained.",
+    "clips": [
+      {
+        "file": "public/videos/dj-loop.mp4",
+        "sources": [
+          "dj-cool"
+        ],
+        "duration_seconds": 10.416667,
+        "width": 640,
+        "height": 360,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "frame_rate": "24/1",
+        "audio": false,
+        "bytes": 775696,
+        "faststart": true,
+        "status": "Historical source; superseded and removed from current distribution",
+        "superseded_by": "public/videos/dj-hd-loop.mp4"
+      },
+      {
+        "file": "public/videos/sarrainodu-loop.mp4",
+        "sources": [
+          "sarrainodu-dance",
+          "sarrainodu-fight",
+          "sarrainodu-swagger"
+        ],
+        "duration_seconds": 8.25,
+        "width": 640,
+        "height": 360,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "frame_rate": "24/1",
+        "audio": false,
+        "bytes": 2939509,
+        "faststart": true,
+        "status": "Historical source; superseded and removed from current distribution",
+        "superseded_by": "public/videos/sarrainodu-hd-loop.mp4"
+      },
+      {
+        "file": "public/videos/ala-vaikunthapurramuloo-loop.mp4",
+        "sources": [
+          "avpl-wow",
+          "avpl-dance",
+          "avpl-party"
+        ],
+        "duration_seconds": 9.208333,
+        "width": 640,
+        "height": 360,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "frame_rate": "24/1",
+        "audio": false,
+        "bytes": 1877561,
+        "faststart": true,
+        "status": "Historical source; superseded and removed from current distribution",
+        "superseded_by": "public/videos/ala-vaikunthapurramuloo-hd-loop.mp4"
+      }
+    ],
+    "sources": [
+      {
+        "key": "dj-cool",
+        "page": "https://tenor.com/view/duvvada-jagannadham-allu-arjun-dj-smooth-cool-gif-17453455",
+        "media": "https://media.tenor.com/A7YwW_3TdNAAAAPo/duvvada-jagannadham-allu-arjun.mp4",
+        "bytes": 1185427
+      },
+      {
+        "key": "sarrainodu-dance",
+        "page": "https://tenor.com/view/allu-arjun-sarrainodu-stylish-star-arjun-allu-allu-bhai-bunny-gif-18625074",
+        "media": "https://media.tenor.com/UHuThpOULmQAAAPo/allu-arjun-sarrainodu.mp4",
+        "bytes": 2505950
+      },
+      {
+        "key": "sarrainodu-fight",
+        "page": "https://tenor.com/view/sarrainodu-allu-arjun-gana-back-flip-fight-gif-17953319",
+        "media": "https://media.tenor.com/qxhBT03S4BIAAAPo/sarrainodu-allu-arjun.mp4",
+        "bytes": 1005447
+      },
+      {
+        "key": "avpl-dance",
+        "page": "https://tenor.com/view/avpl-allu-arjun-ala-vaikunthapurramuloo-gif-18094730",
+        "media": "https://media.tenor.com/ete32HZ1EtsAAAPo/avpl-allu.mp4",
+        "bytes": 882343
+      },
+      {
+        "key": "avpl-party",
+        "page": "https://tenor.com/view/alavaikunthapurramuloo-poojahegde-alluarjun-ramulooramulaa-telugumovie-gif-12043383318023880736",
+        "media": "https://media.tenor.com/pyKxUbStwCAAAAPo/alavaikunthapurramuloo-poojahegde.mp4",
+        "bytes": 542487
+      },
+      {
+        "key": "avpl-wow",
+        "page": "https://tenor.com/view/ala-vaikunthapurramuloo-allu-arjun-telugu-wow-telugu-andam-andam-gif-23060896",
+        "media": "https://media.tenor.com/UiyMqDStSG0AAAPo/ala-vaikunthapurramuloo-allu-arjun.mp4",
+        "bytes": 401230
+      },
+      {
+        "key": "sarrainodu-swagger",
+        "page": "https://tenor.com/view/sarrainodu-allu-arjun-bunny-alluarjun-gif-18093799",
+        "media": "https://media.tenor.com/CYgxrBVamd0AAAPo/sarrainodu-allu.mp4",
+        "bytes": 610100
+      }
+    ]
+  },
+  "autoplay_raaka_race_portrait": {
+    "assets": [
+      {
+        "file": "public/videos/raaka-loop.mp4",
+        "film": "RAAKA / AA22xA6",
+        "source_title": "GEAR UP for AA22xA6 — Sun Pictures announcement",
+        "source_url": "https://x.com/sunpictures/status/1909478814826352694",
+        "source_media_url": "https://video.twimg.com/ext_tw_video/1909470557009031169/pu/vid/avc1/1280x720/xQS6xYa_UkYX-fky.mp4?tag=12",
+        "edit": "29.5–39.2 seconds; original speed; audio removed"
+      },
+      {
+        "file": "public/videos/allu-portrait-loop.mp4",
+        "purpose": "Full-screen Allu Arjun portrait panel",
+        "source_title": "GEAR UP for AA22xA6 — Sun Pictures announcement",
+        "source_url": "https://x.com/sunpictures/status/1909478814826352694",
+        "source_media_url": "https://video.twimg.com/ext_tw_video/1909470557009031169/pu/vid/avc1/1280x720/xQS6xYa_UkYX-fky.mp4?tag=12",
+        "edit": "Close-up montage: 9.30–11.10, 16.25–17.90, 94.45–95.20, 115.35–117.40 seconds; 1.45× duration slow motion; audio removed"
+      },
+      {
+        "file": "public/videos/race-gurram-loop.mp4",
+        "film": "Race Gurram (2014)",
+        "source_title": "Allu Arjun in Race Gurram — horses scene; Kulfy (Tenor Official Partner)",
+        "source_url": "https://tenor.com/view/allu-arjun-in-race-gurram-gif-allu-arjun-race-gurram-horses-gif-18988735",
+        "source_media_url": "https://media.tenor.com/8iUCKzEBWc4AAAPo/allu-arjun-in-race-gurram-gif.mp4",
+        "edit": "Native public MP4 scene loop; no upscaling; faststart remux",
+        "limitations": "640×324 native resolution, 6.36-second loop; original Kulfy / Telugu Filmnagar watermarks retained",
+        "status": "Historical source; superseded and removed from current distribution",
+        "superseded_by": "public/videos/race-gurram-hd-loop.mp4"
+      }
+    ],
+    "verification": [
+      {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "pix_fmt": "yuv420p",
+            "r_frame_rate": "24/1"
+          }
+        ],
+        "format": {
+          "duration": "9.708333",
+          "size": "2047295"
+        },
+        "faststart": true,
+        "filename": "raaka-loop.mp4"
+      },
+      {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "pix_fmt": "yuv420p",
+            "r_frame_rate": "24/1"
+          }
+        ],
+        "format": {
+          "duration": "9.083333",
+          "size": "1285232"
+        },
+        "faststart": true,
+        "filename": "portrait-loop.mp4"
+      },
+      {
+        "programs": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 640,
+            "height": 324,
+            "pix_fmt": "yuv420p",
+            "r_frame_rate": "100/3"
+          }
+        ],
+        "format": {
+          "duration": "6.360000",
+          "size": "1716120"
+        },
+        "faststart": true,
+        "filename": "race-gurram-loop.mp4"
+      }
+    ]
+  },
+  "responsive_hd_replacements": {
+    "source": {
+      "publisher": "Geetha Arts (official)",
+      "post": "https://x.com/GeethaArts/status/2041713155865506138",
+      "date": "2026-04-08",
+      "description": "Official Allu Arjun birthday filmography montage",
+      "media": "https://video.twimg.com/amplify_video/2041712245806395395/vid/avc1/1280x720/mLNgnF1LxBubcM9d.mp4",
+      "width": 1280,
+      "height": 720,
+      "fps": "25/1",
+      "duration_seconds": 1011.36,
+      "bytes": 149999213
+    },
+    "processing": "Retained source dimensions, frame rate, original speed, full frame, original letterboxing and Geetha Arts branding. No upscale, frame interpolation, added duplicates or crop. Removed audio; H264 yuv420p faststart. DJ continuous shot. Sarrainodu same-film introductory and temple action shots joined.",
+    "display": "Native video frame retained with object-fit:contain; visible scenes autoplay muted and loop. Nearby clips preload; offscreen clips pause.",
+    "clips": [
+      {
+        "film": "dj",
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "duration_seconds": 5.32,
+        "bytes": 602436,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio": false,
+        "faststart": true,
+        "sha256": "3171d58ebafe9818c7ca8ca0391482c83652905a71aa84ba5f6560fc18d3f614",
+        "source_spans_seconds": [
+          [
+            204.8,
+            210.12
+          ]
+        ],
+        "file": "public/videos/dj-hd-loop.mp4"
+      },
+      {
+        "film": "sarrainodu",
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "duration_seconds": 6.0,
+        "bytes": 1875220,
+        "codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio": false,
+        "faststart": true,
+        "sha256": "e1d926c5367dc8c918b92e142c5c98e0d8fd01b2459126cec405c7ac165a6124",
+        "source_spans_seconds": [
+          [
+            78.04,
+            79.16
+          ],
+          [
+            80,
+            80.8
+          ],
+          [
+            82.96,
+            83.52
+          ],
+          [
+            217.52,
+            218.12
+          ],
+          [
+            222,
+            223.64
+          ],
+          [
+            357.8,
+            358.16
+          ],
+          [
+            359.2,
+            359.6
+          ],
+          [
+            361.36,
+            361.88
+          ]
+        ],
+        "file": "public/videos/sarrainodu-hd-loop.mp4"
+      },
+      {
+        "film": "Race Gurram",
+        "width": 1280,
+        "height": 720,
+        "frame_rate": "25/1",
+        "duration_seconds": 7.84,
+        "frame_count": 196,
+        "size_bytes": 1868231,
+        "sha256": "2091bf6ba8345a6754df1cb55c3b969e66cdee143d280ab443604d86047196ef",
+        "source_cuts": [
+          {
+            "start_seconds": 269.32,
+            "end_seconds_exclusive": 272.56,
+            "description": "Lucky in purple shirt in police station, full head and torso"
+          },
+          {
+            "start_seconds": 281.08,
+            "end_seconds_exclusive": 282.56,
+            "description": "Lucky turns in the police station"
+          },
+          {
+            "start_seconds": 62.2,
+            "end_seconds_exclusive": 65.32,
+            "description": "Lucky in police uniform on motorcycle"
+          }
+        ],
+        "verification": {
+          "decoded_frames": 196,
+          "unique_decoded_frame_hashes": 196,
+          "faststart": true
+        },
+        "file": "public/videos/race-gurram-hd-loop.mp4"
+      },
+      {
+        "film": "Ala Vaikunthapurramuloo",
+        "width": 1280,
+        "height": 720,
+        "frame_rate": "25/1",
+        "duration_seconds": 6.6,
+        "frame_count": 165,
+        "size_bytes": 1100305,
+        "sha256": "a9a893eda5279251298f9a6b4d40b34390cfac1c7d8dda052a9ceaaf2d126187",
+        "source_cuts": [
+          {
+            "start_seconds": 176.24,
+            "end_seconds_exclusive": 180.4,
+            "description": "Bantu in red blazer speaking in office"
+          },
+          {
+            "start_seconds": 724.4,
+            "end_seconds_exclusive": 726.84,
+            "description": "Bantu in checked shirt with flower petals falling"
+          }
+        ],
+        "verification": {
+          "decoded_frames": 165,
+          "unique_decoded_frame_hashes": 165,
+          "faststart": true
+        },
+        "file": "public/videos/ala-vaikunthapurramuloo-hd-loop.mp4"
+      }
+    ]
+  }
+}

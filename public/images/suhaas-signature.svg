@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-label="Suhaas signature">
+  <defs>
+    <linearGradient id="s" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fdfdfd"/>
+      <stop offset="35%" stop-color="#c9c9d4"/>
+      <stop offset="55%" stop-color="#f5f0e6"/>
+      <stop offset="75%" stop-color="#9a9aa8"/>
+      <stop offset="100%" stop-color="#f2f2f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="220" fill="none"/>
+  <g fill="none" stroke="url(#s)" stroke-linecap="round">
+    <path stroke-width="5" d="M 55 175 C 110 160, 190 140, 235 118 C 275 100, 268 82, 238 86 C 205 90, 175 110, 205 128 C 235 146, 320 150, 360 128 C 380 117, 372 100, 355 108"/>
+    <path stroke-width="3.2" d="M 330 140 C 345 118, 355 100, 362 82 M 362 82 C 368 100, 372 120, 378 138 M 385 138 C 395 120, 405 108, 418 108 C 428 108, 428 125, 420 138 M 420 138 C 432 118, 445 106, 458 106 C 470 106, 468 126, 456 140 M 462 140 C 475 120, 490 108, 502 110 C 512 112, 508 128, 498 140 M 505 138 C 520 118, 535 108, 548 112 C 558 115, 552 130, 542 140 M 350 158 C 430 152, 520 142, 590 128"/>
+  </g>
+  <circle cx="596" cy="142" r="2.6" fill="url(#s)"/>
+</svg>
